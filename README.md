@@ -6,3 +6,5 @@ Dev project highlights summary screen page in HTML.
 Clone this project and look at the source files:
 - `index.html`
 - `style.css`
+
+*Initialized by totrrescartel workspace automation.*
